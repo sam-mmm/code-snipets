@@ -31,4 +31,4 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.GITHUB_TOKEN  }}
-          REPOSITORY: sam-mmm/sam-mmm.github.io
+          REPOSITORY: sam-mmm/code-snipets
